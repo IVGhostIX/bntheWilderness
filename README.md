@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bntheWilderness
 - 👀 I’m interested in tech, space, music, design, photography and my fam. 
-- 🌱 I’m currently learning Python, CSS and HTML5
+- 🌱 I’m currently learning Python, JavaScript, Java, CSS and HTML5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
